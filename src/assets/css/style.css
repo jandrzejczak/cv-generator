@@ -1,0 +1,10 @@
+.some-class {
+  text-align: center;
+}
+.some-class .more-class {
+  text-align: left;
+}
+
+.vue-grid-placeholder {
+  background: rgb(52, 113, 255) !important;
+}
